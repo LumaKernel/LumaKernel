@@ -13,6 +13,7 @@
 - 🗾 [Watching animes](https://scrapbox.io/luma/%E3%82%A2%E3%83%8B%E3%83%A1) and reading light novels and comics a little
 - :octocat: Neovimmer
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
+- 🥳 Born in 2000
 - ☕ Job status: Working on something cool
 
 
