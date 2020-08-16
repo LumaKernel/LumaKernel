@@ -9,3 +9,4 @@
   + https://codeforces.com/profile/Luma
 - 👆 Working on something cool
 - :octocat: Neovimmer
+- 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
