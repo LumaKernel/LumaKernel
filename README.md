@@ -1,6 +1,6 @@
 ### Hi all 👋
 
-!\[404 Not Found\](https:<span></span>//something-cool-image/you/imagine)
+!\[404 Not Found\](https:<span></span>//something-awesome/you/imagine)
 
 ![](https://github-readme-stats.vercel.app/api?username=LumaKernel&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKernel&layout=compact)
