@@ -24,7 +24,7 @@
   - Node.js, Python Django, ...
 - Algorithms & Data Structures
 - Learning Network
-  - Qualified in <span style="text-decoration:underline" title="ネットワークスペシャリスト">NW</span>
+  - Qualified in <i title="ネットワークスペシャリスト">NW</i>
 
 ### Natural languages
 
