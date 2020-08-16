@@ -9,6 +9,9 @@
 - 📈 Competitive Programmer
   + https://atcoder.jp/users/luma
   + https://codeforces.com/profile/Luma
+  + Contests I was qualified in
+    - <span title="日本情報オリンピック">JOI2017, JOI2018</span>, <span title="パソコン甲子園">PCK2017</span>, <span title="International Collagiate Programming Contest">ICPC2019 Yokohama Regional</span>
+    - codeflyer2018, <span title="ディスカバリーチャンネルコードコンテスト, ちなみに2018は存在しない">DDCC2017, DDCC2019, DDCC2020</span>
 - 😋 Learning math just for fun
 - 🗾 [Watching animes](https://scrapbox.io/luma/%E3%82%A2%E3%83%8B%E3%83%A1) and reading light novels and comics a little
 - :octocat: Neovimmer
@@ -25,7 +28,7 @@
   - Node.js, Python Django, ...
 - Algorithms & Data Structures
 - Learning Network
-  - Qualified in <i title="ネットワークスペシャリスト">NW</i>
+  - Qualified in <span title="ネットワークスペシャリスト">NW</span>
 
 ### Natural languages
 
