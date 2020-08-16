@@ -10,15 +10,16 @@
   + https://atcoder.jp/users/luma
   + https://codeforces.com/profile/Luma
 - 😋 Learning math just for fun
-- ☕ Working on something cool
+- 🗾 [Watching animes](https://scrapbox.io/luma/%E3%82%A2%E3%83%8B%E3%83%A1) and reading light novels and comics a little
 - :octocat: Neovimmer
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
+- ☕ Job status: Working on something cool
 
 
 ### Skills/Interests
 
 - Frontend
-  - TypeScript
+  - TypeScript, Vue.js, React, Preact
 - Learning Backend
   - Node.js, Python Django, ...
 - Algorithms & Data Structures
