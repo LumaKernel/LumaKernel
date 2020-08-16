@@ -24,7 +24,7 @@
 ### Skills/Interests
 
 - Frontend
-  - TypeScript, Vue.js, React, Preact
+  - TypeScript, Vue.js, React, Preact, ...
 - Learning Backend
   - Node.js, Python Django, ...
 - Algorithms & Data Structures
