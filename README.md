@@ -30,6 +30,7 @@
 - Algorithms & Data Structures
 - Learning Network
   - Qualified in <span title="ネットワークスペシャリスト">NW</span>
+  - I want to construct my own network rack 😭 < my short dream
 
 ### Natural languages
 
