@@ -10,7 +10,7 @@
   + https://atcoder.jp/users/luma
   + https://codeforces.com/profile/Luma
 - 😋 Learning math just for fun
-- 👆 Working on something cool
+- ☕ Working on something cool
 - :octocat: Neovimmer
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
 
