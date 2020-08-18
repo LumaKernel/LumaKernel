@@ -18,7 +18,7 @@
 - :octocat: Neovimmer
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
 - 🥳 Born in 2000
-- ☕ Job status: Working on something cool
+- ☕ Job status: Working on something cool. I'm told to make it secret 🤐
 
 
 ### Skills/Interests
