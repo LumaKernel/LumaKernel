@@ -28,11 +28,13 @@
 - Frontend
   - TypeScript, Vue.js, React, Preact, ...
 - Learning Backend
-  - Node.js, Python Django, ...
+  - Node.js, ...
+  - Learning Python Django, ...
 - Algorithms & Data Structures
 - Learning Network
   - Qualified in <span title="ネットワークスペシャリスト">NW</span>
   - I want to construct my own network rack 😭 < my short dream
+- Learning Security
 
 ### Natural languages
 
