@@ -1,4 +1,4 @@
-name: 進捗
+name: progress
 
 on: workflow_dispatch
 
