@@ -1,5 +1,7 @@
 ### Hi all 👋
 
+![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)
+
 !\[404 Not Found\](https:<span></span>//something-awesome/you/imagine)
 
 ![](https://github-readme-stats.vercel.app/api?username=LumaKernel&count_private=true)
