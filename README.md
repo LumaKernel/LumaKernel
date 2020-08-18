@@ -1,6 +1,6 @@
 ### Hi all 👋
 
-![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)
+[![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)](https://github.com/LumaKernel/LumaKernel/actions?query=workflow%3Aprogress)
 
 !\[404 Not Found\](https:<span></span>//something-awesome/you/imagine)
 
