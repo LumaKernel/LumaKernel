@@ -8,6 +8,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKernel&layout=compact)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 - 📈 Competitive Programmer
