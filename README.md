@@ -7,6 +7,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=LumaKernel&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKernel&layout=compact)
 
+### WakaTime last 2 weeks report 🐾
+
 <!--START_SECTION:waka-->
 ```text
 SCSS         1 hr 7 mins     █████████▒░░░░░░░░░░░░░░░   37.04 % 
