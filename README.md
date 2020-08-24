@@ -1,4 +1,4 @@
-### Hi all 👋
+### Hi all, I'm Luma 🌟
 
 [![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)](https://github.com/LumaKernel/LumaKernel/actions?query=workflow%3Aprogress)
 
