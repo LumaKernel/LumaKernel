@@ -1,4 +1,4 @@
-### Hi all, I'm Luma 🌟
+### Hi friends, I'm Luma 🌟
 
 [![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)](https://github.com/LumaKernel/LumaKernel/actions?query=workflow%3Aprogress)
 
@@ -20,7 +20,7 @@ Markdown     1 hr 15 mins    ██▓░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 - 📈 Competitive Programmer
-  + https://atcoder.jp/users/luma
+  + https://atcoder.jp/users/luma (Top 0.8% of the world! 0.4% of Japan! :smirk: )
   + https://codeforces.com/profile/Luma
   + Contests I was qualified in
     - <span title="日本情報オリンピック">JOI2017, JOI2018</span>, <span title="パソコン甲子園">PCK2017</span>, <span title="International Collagiate Programming Contest">ICPC2019 Yokohama Regional</span>
