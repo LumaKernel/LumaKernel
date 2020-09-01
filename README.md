@@ -19,6 +19,12 @@ JavaScript   2 hrs 52 mins   █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+### Trophy 🏆
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=LumaKernel&row=1&column=8)
+
+### Status
+
 - 📈 Competitive Programmer
   + https://atcoder.jp/users/luma (Top 0.8% of the world! 0.4% of Japan! :smirk: )
   + https://codeforces.com/profile/Luma
