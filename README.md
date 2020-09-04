@@ -7,17 +7,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=LumaKernel&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKernel&layout=compact)
 
-### WakaTime last 2 weeks report 🐾
+### WakaTime last 30 days report 🐾
 
-<!--START_SECTION:waka-->
-```text
-Python       18 hrs 54 mins  ██████████████▒░░░░░░░░░░   57.97 % 
-HTML         3 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-YAML         1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JavaScript   1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Bash         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-```
-<!--END_SECTION:waka-->
+| \<------------------------------------------------------------------\> | \<------------------------------------------------------------------\> |
+| ------------- |:-------------:|
+| [![](https://wakatime.com/share/@luma/9db3eb0e-f37e-4147-a591-644760d4ecc9.svg)](https://wakatime.com/share/@luma/9db3eb0e-f37e-4147-a591-644760d4ecc9.svg) | [![](https://wakatime.com/share/@luma/4b3f5e09-c915-42d1-9aa0-b711d5806a10.svg)](https://wakatime.com/share/@luma/4b3f5e09-c915-42d1-9aa0-b711d5806a10.svg) |
 
 ### Trophy 🏆
 
