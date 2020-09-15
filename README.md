@@ -46,6 +46,7 @@
   - Qualified in <span title="ネットワークスペシャリスト">NW</span>
   - I want to construct my own network rack 😭 < my short dream
 - Learning Security
+- Learning AWS and other Cloud services.
 
 ### Natural languages
 
