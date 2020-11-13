@@ -1,6 +1,6 @@
 name: progress
 
-on: workflow_dispatch
+on: push
 
 jobs:
   check:
@@ -9,3 +9,6 @@ jobs:
     steps:
     - name: Check progress
       run: "false"
+    - name: Debug
+      if: ${{ alwasy() }}
+      uses: mxschmitt/action-tmate@v3
