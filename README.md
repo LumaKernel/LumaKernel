@@ -27,7 +27,7 @@
     - codeflyer2018, <span title="ディスカバリーチャンネルコードコンテスト, ちなみに2018は存在しない">DDCC2017, DDCC2019, DDCC2020</span>
 - 😋 Learning math just for fun
 - 🗾 [Watching animes](https://scrapbox.io/luma/%E3%82%A2%E3%83%8B%E3%83%A1) and reading light novels and comics a little
-- 🎵 Love to listening to music
+- 🎵 Love listening to music
 - :octocat: Neovimmer
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
 - 🥳 Born in 2000
