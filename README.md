@@ -64,8 +64,13 @@
 , Lightsail
   - I'm learning...
     - <span title="Elastic File System">EFS</span>
-- Read and write with terraform.
+- Docker
+  - Minimizing image size, build time, effective caching...
+- Docker Swarm
+- Docker Compose
+- Read and write to setup cloud infrastructure with terraform. I like terraform.
 - Read <span title="Amazon Web Services">AWS</span> CloudFormation declarations.
+- Also trying management... f\*ckingly difficult and complicated!!!
 
 ### Natural languages
 
