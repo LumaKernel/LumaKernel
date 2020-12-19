@@ -53,6 +53,7 @@
   - I've experienced...
     - <span title="Elastic Computing Cloud">EC2</span>
 , <span title="Virtual Private Cloud">VPC</span>
+, <span title="Application Load Balancer">ALB</span>
 , <span title="Elastic Container Service">ECS</span>
 , <span title="Relational Database Service">RDS</span>
 , <span title="Simple Storage Service">S3</span>
