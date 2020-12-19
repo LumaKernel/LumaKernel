@@ -50,17 +50,18 @@
 - Learning security.
 - Learning authentication and authorization.
 - Learning <span title="Amazon Web Services">AWS</span> and other Cloud services.
-  - I've used...
+  - I've experienced...
     - <span title="Elastic Computing Cloud">EC2</span>
-    - <span title="Virtual Private Cloud">VPC</span>
-    - <span title="Elastic Container Service">ECS</span>
-    - <span title="Relational Database Service">RDS</span>
-    - <span title="Simple Storage Service">S3</span>
-    - <span title="Systems Manager">SSM</span>
-    - ElastiCache
-    - CloudWatch
-    - Lambda
-    - Lightsail
+, <span title="Virtual Private Cloud">VPC</span>
+, <span title="Elastic Container Service">ECS</span>
+, <span title="Relational Database Service">RDS</span>
+, <span title="Simple Storage Service">S3</span>
+, <span title="Systems Manager">SSM</span>
+, Secrets Manager
+, ElastiCache
+, CloudWatch
+, Lambda
+, Lightsail
   - I'm learning...
     - <span title="Elastic File System">EFS</span>
 - Read and write with terraform.
