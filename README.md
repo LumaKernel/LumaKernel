@@ -37,16 +37,32 @@
 ### Skills/Interests
 
 - Frontend
-  - TypeScript, Vue.js, React, Preact, ...
+  - TypeScript, Vue.js, React, Preact, Next.js...
 - Learning Backend
-  - Node.js, ...
+  - Node.js, Rust, diesel, ...
   - Learning Python Django, ...
 - Algorithms & Data Structures
 - Learning Network
   - Qualified in <span title="ネットワークスペシャリスト">NW</span>
   - I want to construct my own network rack 😭 < my short dream
-- Learning Security
-- Learning AWS and other Cloud services.
+- Learning security.
+- Learning authentication and authorization.
+- Learning <span title="Amazon Web Services">AWS</span> and other Cloud services.
+  - I've used...
+    - <span title="Elastic Computing Cloud">EC2</span>
+    - <span title="Virtual Private Cloud">VPC</span>
+    - <span title="Elastic Container Service">ECS</span>
+    - <span title="Relational Database Service">RDS</span>
+    - <span title="Simple Storage Service">S3</span>
+    - <span title="Systems Manager">SSM</span>
+    - ElastiCache
+    - CloudWatch
+    - Lambda
+    - Lightsail
+  - I'm learning...
+    - <span title="Elastic File System">EFS</span>
+- Read and write with terraform.
+- Read <span title="Amazon Web Services">AWS</span> CloudFormation declarations.
 
 ### Natural languages
 
