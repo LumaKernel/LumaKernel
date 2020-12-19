@@ -2,7 +2,7 @@
 
 [![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)](https://github.com/LumaKernel/LumaKernel/actions?query=workflow%3Aprogress)
 
-!\[404 Not Found\](https:<span></span>//something-awesome/you/imagine)
+!\[Something awesome\](https:<span></span>//you.imagine.local/img.png)
 
 ![](https://github-readme-stats.vercel.app/api?username=LumaKernel&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKernel&layout=compact)
