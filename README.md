@@ -31,7 +31,7 @@
 - :octocat: Neovimmer
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
 - 🥳 Born in 2000
-- ☕ Job status: Working on something cool. I'm told to make it secret 🤐
+- ☕ Job status: HIRABLE!!! Backend, Infrastructure, SRE, IaC. ( Some already offered me jobs, I appreciate them all. Some are now under discussion. )
 
 
 ### Skills/Interests
@@ -62,9 +62,11 @@
 , ElastiCache
 , CloudWatch
 , Lambda
+, Cognito
 , Lightsail
   - I'm learning...
     - <span title="Elastic File System">EFS</span>
+, <span title="Elastic Block Store">EBS</span>
 - Docker
   - Minimizing image size, build time, effective caching...
 - Docker Swarm
