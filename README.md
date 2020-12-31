@@ -39,10 +39,11 @@
 - Frontend
   - TypeScript, Vue.js, React, Preact, Next.js, ...
 - Learning Backend
-  - Node.js, prisma, BullMQ, ...
+  - Node.js, [prisma](https://github.com/prisma/prisma), BullMQ, ...
   - Rust, diesel, ...
   - Learning Python Django, Celery, ...
 - Algorithms & Data Structures
+  - C++
 - GitHub Actions, Circle CI and other related tools.
 - Learning Network
   - Qualified in <span title="ネットワークスペシャリスト">NW</span>
@@ -73,6 +74,7 @@
 - Docker Compose
 - Read and write to setup cloud infrastructure with terraform. I like terraform.
 - Read <span title="Amazon Web Services">AWS</span> CloudFormation declarations.
+- Experienced GraphQL with [`nexus`](https://github.com/graphql-nexus/nexus) and apollo stack.
 - ~Also trying management...~ Retired. Ahg.
 
 ### Natural languages
