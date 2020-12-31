@@ -39,11 +39,11 @@
 - Frontend
   - TypeScript, Vue.js, React, Preact, Next.js, ...
 - Learning Backend
-  - Node.js, prisma, ...
+  - Node.js, prisma, BullMQ, ...
   - Rust, diesel, ...
-  - Learning Python Django, ...
+  - Learning Python Django, Celery, ...
 - Algorithms & Data Structures
-- GitHub Actions and other related tools.
+- GitHub Actions, Circle CI and other related tools.
 - Learning Network
   - Qualified in <span title="ネットワークスペシャリスト">NW</span>
   - I want to construct my own network rack ... some day ...
@@ -69,11 +69,11 @@
 , <span title="Elastic Block Store">EBS</span>
 - Docker
   - Minimizing image size, build time, effective caching...
-- Docker Swarm
+- Docker Swarm, ECS
 - Docker Compose
 - Read and write to setup cloud infrastructure with terraform. I like terraform.
 - Read <span title="Amazon Web Services">AWS</span> CloudFormation declarations.
-- Also trying management... f\*ckingly difficult and complicated!!!
+- ~Also trying management...~ Retired. Ahg.
 
 ### Natural languages
 
