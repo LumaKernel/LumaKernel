@@ -38,7 +38,9 @@
 
 - Frontend
   - TypeScript, Vue.js, React, Preact, Next.js, ...
-- Learning Backend
+  - ESLint, Prettier
+  - Learning Nuxt.js, Svelte, ...
+- Learning backend
   - Node.js, [prisma](https://github.com/prisma/prisma), BullMQ, ...
   - Rust, diesel, ...
   - Learning Python Django, Celery, ...
@@ -75,7 +77,8 @@
 - Read and write to setup cloud infrastructure with terraform. I like terraform.
 - Read <span title="Amazon Web Services">AWS</span> CloudFormation declarations.
 - Experienced GraphQL with [`nexus`](https://github.com/graphql-nexus/nexus) and apollo stack.
-- ~Also trying management...~ Retired. Ahg.
+- Learning GCP and GKE
+- Learning [unified](https://unifiedjs.com/)
 
 ### Natural languages
 
