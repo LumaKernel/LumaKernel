@@ -31,7 +31,7 @@
 - :octocat: Neovimmer
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
 - 🥳 Born in 2000
-- ☕ Job status: HIRABLE!!! Backend, Infrastructure, SRE, IaC. ( Some already offered me jobs, I appreciate them all. Some are now under discussion. )
+- ☕ Job status: Under offer. :cat2:
 
 
 ### Skills/Interests
@@ -39,7 +39,7 @@
 - Frontend
   - TypeScript, Vue.js, React, Preact, Next.js, ...
   - ESLint, Prettier
-  - Learning Nuxt.js, Svelte, ...
+  - Learning Nuxt.js, Svelte, Sapper ...
 - Learning backend
   - Node.js, [prisma](https://github.com/prisma/prisma), BullMQ, ...
   - Rust, diesel, ...
