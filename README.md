@@ -67,9 +67,10 @@
 , Lambda
 , Cognito
 , Lightsail
+, <span title="Elastic File System">EFS</span>
+, API Gateway
   - I'm learning...
-    - <span title="Elastic File System">EFS</span>
-, <span title="Elastic Block Store">EBS</span>
+    - <span title="Elastic Block Store">EBS</span>
 - Docker
   - Minimizing image size, build time, effective caching...
 - Docker Swarm, ECS
