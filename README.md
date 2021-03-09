@@ -34,7 +34,8 @@
 - :octocat: Neovimmer
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
 - 🥳 Born in 2000
-- ☕ Job status: Under offer. :cat2:
+- ☕ Job status: Working :cat2:
+- Real world name: Teppei Kawaguchi
 
 
 ### Skills/Interests
