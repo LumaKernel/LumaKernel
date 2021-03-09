@@ -2,6 +2,9 @@
 
 [![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)](https://github.com/LumaKernel/LumaKernel/actions?query=workflow%3Aprogress)
 
+**Recently, I wrote an article about Pathpida: ** https://www.infoq.com/articles/pathpida-dynamic-routing-nextjs-nuxtjs/
+
+
 !\[Something awesome\](https:<span></span>//you.imagine.local/img.png)
 
 ![](https://github-readme-stats.vercel.app/api?username=LumaKernel&count_private=true)
@@ -80,6 +83,10 @@
 - Experienced GraphQL with [`nexus`](https://github.com/graphql-nexus/nexus) and apollo stack.
 - Learning GCP and GKE
 - Learning [unified](https://unifiedjs.com/)
+
+### Writings
+
+- https://www.infoq.com/articles/pathpida-dynamic-routing-nextjs-nuxtjs/
 
 ### Natural languages
 
