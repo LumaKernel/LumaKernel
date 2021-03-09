@@ -2,7 +2,7 @@
 
 [![progress](https://github.com/LumaKernel/LumaKernel/workflows/progress/badge.svg)](https://github.com/LumaKernel/LumaKernel/actions?query=workflow%3Aprogress)
 
-**Recently, I wrote an article about Pathpida: ** https://www.infoq.com/articles/pathpida-dynamic-routing-nextjs-nuxtjs/
+**Recently, I wrote an article about Pathpida:** https://www.infoq.com/articles/pathpida-dynamic-routing-nextjs-nuxtjs/
 
 
 !\[Something awesome\](https:<span></span>//you.imagine.local/img.png)
