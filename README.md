@@ -92,4 +92,4 @@
 ### Natural languages
 
 - Japanese: Native ヾ(^▽^*)))
-- English: Intermediate ( learning in lestening/speaking )
+- English: Intermediate ( learning in listening/speaking )
