@@ -95,6 +95,8 @@
 - Experienced GraphQL with [`nexus`](https://github.com/graphql-nexus/nexus) and apollo stack.
 - Learning GCP and GKE
 - Experienced [unified](https://unifiedjs.com/)
+- Learning [OpenCV](https://opencv.org/)
+  - for Image Processing and learning related algorithms.
 
 ### Writings
 
