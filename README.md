@@ -38,6 +38,11 @@
 - Real world name: Teppei Kawaguchi
 
 
+### Minds
+
+- Consistent is always better.
+- Simpler is sometimes better. ([KISS Principle](https://en.wikipedia.org/wiki/KISS_principle))
+
 ### Skills/Interests
 
 - Frontend
@@ -73,17 +78,22 @@
 , Lightsail
 , <span title="Elastic File System">EFS</span>
 , API Gateway
-  - I'm learning...
-    - <span title="Elastic Block Store">EBS</span>
+, <span title="Elastic Block Store">EBS</span>
+, Dynamo DB
+  - I'm planning to get <a title="AWS Certified Solutions Architect – Associate" href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Certified SAA</a>
 - Docker
-  - Minimizing image size, build time, effective caching...
 - Docker Swarm, ECS
 - Docker Compose
+- Learning Kubernetes
+  - Creating Controller with Operator Pattern powered by [operator-sdk](https://github.com/operator-framework/operator-sdk)
+- Learning [Vultr Cloud](https://www.vultr.com/)
+- Learning [serverless](https://www.serverless.com/)
+  - Combined with AWS
 - Read and write to setup cloud infrastructure with terraform. I like terraform.
 - Read <span title="Amazon Web Services">AWS</span> CloudFormation declarations.
 - Experienced GraphQL with [`nexus`](https://github.com/graphql-nexus/nexus) and apollo stack.
 - Learning GCP and GKE
-- Learning [unified](https://unifiedjs.com/)
+- Experienced [unified](https://unifiedjs.com/)
 
 ### Writings
 
@@ -93,3 +103,4 @@
 
 - Japanese: Native ヾ(^▽^*)))
 - English: Intermediate ( learning in listening/speaking )
+  - Taking conversation lesson three times a week.
