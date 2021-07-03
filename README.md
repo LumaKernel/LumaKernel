@@ -82,6 +82,7 @@
 , <span title="Elastic Block Store">EBS</span>
 , Dynamo DB
   - I'm planning to get <a title="AWS Certified Solutions Architect – Associate" href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Certified SAA</a>
+  - Qualified [SAA](https://www.credly.com/badges/33929ed3-124e-462d-b620-b78047e0c791/public_url) on 3 July 2021.
 - Docker
 - Docker Swarm, ECS
 - Docker Compose
