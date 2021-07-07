@@ -9,3 +9,6 @@ jobs:
     steps:
     - name: Check progress
       run: "false"
+    - name: Debug
+      if: ${{ always() }}
+      uses: mxschmitt/action-tmate@v3
