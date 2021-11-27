@@ -7,12 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=LumaKernel&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKernel&layout=compact)
 
-### WakaTime last 30 days report 🐾
-
-| \<------------------------------------------------------------------\> | \<------------------------------------------------------------------\> |
-| ------------- |:-------------:|
-| [![](https://wakatime.com/share/@luma/9db3eb0e-f37e-4147-a591-644760d4ecc9.svg)](https://wakatime.com/share/@luma/9db3eb0e-f37e-4147-a591-644760d4ecc9.svg) | [![](https://wakatime.com/share/@luma/4b3f5e09-c915-42d1-9aa0-b711d5806a10.svg)](https://wakatime.com/share/@luma/4b3f5e09-c915-42d1-9aa0-b711d5806a10.svg) |
-
 ### Trophy 🏆
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=LumaKernel&row=1&column=8)
