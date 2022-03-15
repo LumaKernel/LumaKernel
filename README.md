@@ -23,7 +23,7 @@
 - 🗾 [Watching animes](https://scrapbox.io/luma/%E3%82%A2%E3%83%8B%E3%83%A1) and reading light novels and comics a little
 - 🎵 Love listening to music
 - :octocat: Neovimmer
-- 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
+- 🔵 twitter: [@lq__z](https://twitter.com/lq__z)
 - 🥳 Born in 2000
 - ☕ Job status: Working :cat2:
 - Real world name: Teppei Kawaguchi
