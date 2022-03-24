@@ -33,27 +33,35 @@
 
 - Consistent is always better.
 - Simpler is sometimes better. ([KISS Principle](https://en.wikipedia.org/wiki/KISS_principle))
+- Shape the experience.
 
 ### Skills/Interests
 
 - Frontend
-  - TypeScript, Vue.js, React, Preact, Next.js, ...
+  - TypeScript, Vue.js, React, Preact, Next.js, Nuxt.js, Svelte, ...
   - ESLint, Prettier
-  - Learning Nuxt.js, Svelte, Sapper ...
-- Learning backend
+  - Learning Sapper ...
+- Backend
   - Node.js, [prisma](https://github.com/prisma/prisma), BullMQ, ...
-  - Rust, diesel, ...
   - Experienced Python Django, Celery, ...
-  - Golang
+  - Experienced Go and Rust a little
+    - Go: go-swagger (e.g. https://github.com/luma-dev/fish-history-ui)
+    - Rust: diesel, tokio
+- CI/CD
+  - GitHub Actions, Circle CI, codecov, ...
+- IaC
+  - Can write to setup cloud infrastructure with terraform and ansible. I like terraform and ansible.
+  - Can write terraform with TypeScript with CDK. (e.g. https://github.com/violet-ts/violet-infrastructure)
+  - Can read <span title="Amazon Web Services">AWS</span> CloudFormation declarations.
 - Algorithms & Data Structures
   - C++
-- GitHub Actions, Circle CI and other related tools.
+  - Developing my knowledges in Rust.
 - Learning Network
   - Qualified in <span title="ネットワークスペシャリスト">NW</span>
-  - I want to construct my own network rack ... some day ...
 - Learning security.
+  - Learning for some certificates about security speciallity.
 - Learning authentication and authorization.
-- Learning <span title="Amazon Web Services">AWS</span> and other Cloud services.
+- <span title="Amazon Web Services">AWS</span> and other Cloud services.
   - I've experienced...
     - <span title="Elastic Computing Cloud">EC2</span>
 , <span title="Virtual Private Cloud">VPC</span>
@@ -74,19 +82,17 @@
 , Dynamo DB
   - I'm planning to get <a title="AWS Certified Solutions Architect – Associate" href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Certified SAA</a>
   - Qualified [SAA](https://www.credly.com/badges/33929ed3-124e-462d-b620-b78047e0c791/public_url) on 3 July 2021.
-- Docker
-- Docker Swarm, ECS
-- Docker Compose
+- Experienced Docker, Docker Swarm, ECS, Docker Compose in production
 - Learning Kubernetes
-  - Creating Controller with Operator Pattern powered by [operator-sdk](https://github.com/operator-framework/operator-sdk)
-- Learning [Vultr Cloud](https://www.vultr.com/)
-- Learning [serverless](https://www.serverless.com/)
+  - Experienecd creating controllers with Operator Pattern powered by [operator-sdk](https://github.com/operator-framework/operator-sdk)
+- Using [Vultr Cloud](https://www.vultr.com/)
+- Experienced [serverless](https://www.serverless.com/) in production
   - Combined with AWS
-- Read and write to setup cloud infrastructure with terraform. I like terraform.
-- Read <span title="Amazon Web Services">AWS</span> CloudFormation declarations.
 - Experienced GraphQL with [`nexus`](https://github.com/graphql-nexus/nexus) and apollo stack.
 - Learning GCP and GKE
+  - Used GCP a little in production
 - Experienced [unified](https://unifiedjs.com/)
+  - Made some plugins for my [math.luma.dev](https://math.luma.dev)
 - Learning [OpenCV](https://opencv.org/)
   - for Image Processing and learning related algorithms.
 
@@ -97,5 +103,5 @@
 ### Natural languages
 
 - Japanese: Native ヾ(^▽^*)))
-- English: Intermediate ( learning in listening/speaking )
-  - Taking conversation lesson three times a week.
+- English: Intermediate ( currently learning in listening/speaking )
+- Chinese: Super beginner
