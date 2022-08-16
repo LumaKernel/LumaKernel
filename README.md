@@ -23,10 +23,16 @@
 - 🗾 [Watching animes](https://scrapbox.io/luma/%E3%82%A2%E3%83%8B%E3%83%A1) and reading light novels and comics a little
 - 🎵 Love listening to music
 - :octocat: Neovimmer
-- 🔵 twitter: [@lq__z](https://twitter.com/lq__z)
+- 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
 - 🥳 Born in 2000
 - ☕ Job status: Working :cat2:
 - Real world name: Teppei Kawaguchi
+
+### Job History
+
+- 2020/03-2020/12: Web Engineer (Frontend/Backend/Infrastructure)
+- 2021/01-2022/06: Frourio, inc. Web Engineer (Frontend/Backend/Infrastructure)
+- 2022/07-ongoing: Algorithm Engineer (mainly graph and route search algorithms)
 
 
 ### Minds
