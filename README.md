@@ -32,7 +32,7 @@
 
 - 2020/03-2020/12: Web Engineer (Frontend/Backend/Infrastructure)
 - 2021/01-2022/06: Frourio, inc. Web Engineer (Frontend/Backend/Infrastructure)
-- 2022/07-ongoing: Algorithm Engineer (mainly graph and route search algorithms)
+- 2022/07-ongoing: Optimind, Inc. Algorithm Engineer (mainly graph and route search algorithms)
 
 
 ### Minds
