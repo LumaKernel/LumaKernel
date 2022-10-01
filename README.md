@@ -20,9 +20,9 @@
     - <span title="日本情報オリンピック">JOI2017, JOI2018</span>, <span title="パソコン甲子園">PCK2017</span>, <span title="International Collagiate Programming Contest">ICPC2019 Yokohama Regional</span>
     - codeflyer2018, <span title="ディスカバリーチャンネルコードコンテスト, ちなみに2018は存在しない">DDCC2017, DDCC2019, DDCC2020</span>
 - 😋 Love math and puzzles
-- 🗾 [Watching animes](https://scrapbox.io/luma/%E3%82%A2%E3%83%8B%E3%83%A1) and reading light novels and comics a little
 - 🎵 Love listening to music
 - :octocat: Neovimmer
+- 🗾 [Watching animes](https://scrapbox.io/luma/%E3%82%A2%E3%83%8B%E3%83%A1) and reading comics a little
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
 - 🥳 Born in 2000
 - ☕ Job status: Working at Optimind, Inc. :cat2:
