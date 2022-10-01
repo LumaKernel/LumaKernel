@@ -14,19 +14,19 @@
 ### Status
 
 - 📈 Competitive Programmer
-  + https://atcoder.jp/users/luma (Top 0.8% of the world! 0.4% of Japan! :smirk: )
+  + https://atcoder.jp/users/luma (Top 3% of Japan! :smirk: )
   + https://codeforces.com/profile/Luma
   + Contests I was qualified in
     - <span title="日本情報オリンピック">JOI2017, JOI2018</span>, <span title="パソコン甲子園">PCK2017</span>, <span title="International Collagiate Programming Contest">ICPC2019 Yokohama Regional</span>
     - codeflyer2018, <span title="ディスカバリーチャンネルコードコンテスト, ちなみに2018は存在しない">DDCC2017, DDCC2019, DDCC2020</span>
-- 😋 Learning math just for fun
+- 😋 Love math and puzzles
 - 🗾 [Watching animes](https://scrapbox.io/luma/%E3%82%A2%E3%83%8B%E3%83%A1) and reading light novels and comics a little
 - 🎵 Love listening to music
 - :octocat: Neovimmer
 - 🔵 twitter: [@lumc_](https://twitter.com/lumc_)
 - 🥳 Born in 2000
-- ☕ Job status: Working :cat2:
-- Real world name: Teppei Kawaguchi
+- ☕ Job status: Working at Optimind, Inc. :cat2:
+- Real world name: <span title="川口哲平">Teppei KAWAGUCHI</span>
 
 ### Job History
 
@@ -39,34 +39,37 @@
 
 - Consistent is always better.
 - Simpler is sometimes better. ([KISS Principle](https://en.wikipedia.org/wiki/KISS_principle))
-- Shape the experience.
+- Shape the experience quickly.
 
-### Skills/Interests
+### Skills
 
 - Frontend
-  - TypeScript, Vue.js, React, Preact, Next.js, Nuxt.js, Svelte, ...
+  - TypeScript, Vue.js, React, Preact, Next.js, Nuxt.js, Svelte, vite, ...
   - ESLint, Prettier
-  - Learning Sapper ...
+  - Testing
+    - vitest
+  - Webpack
+  - [Daxie.js](https://dexie.org/) ([IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API))
 - Backend
   - Node.js, [prisma](https://github.com/prisma/prisma), BullMQ, ...
   - Experienced Python Django, Celery, ...
-  - Experienced Go and Rust a little
+  - Experienced Go and Rust
     - Go: go-swagger (e.g. https://github.com/luma-dev/fish-history-ui)
     - Rust: diesel, tokio
 - CI/CD
-  - GitHub Actions, Circle CI, codecov, ...
+  - GitHub Actions, Circle CI, GitLab CI, codecov, ...
 - IaC
   - Can write to setup cloud infrastructure with terraform and ansible. I like terraform and ansible.
   - Can write terraform with TypeScript with CDK. (e.g. https://github.com/violet-ts/violet-infrastructure)
   - Can read <span title="Amazon Web Services">AWS</span> CloudFormation declarations.
 - Algorithms & Data Structures
   - C++
-  - Developing my knowledges in Rust.
-- Learning Network
+  - Redeveloping my knowledges in Rust.
+- Continue learning network
   - Qualified in <span title="ネットワークスペシャリスト">NW</span>
-- Learning security.
-  - Learning for some certificates about security speciallity.
-- Learning authentication and authorization.
+- Continue learning database
+- Continue learning security
+- Continue learning authentication and authorization.
 - <span title="Amazon Web Services">AWS</span> and other Cloud services.
   - I've experienced...
     - <span title="Elastic Computing Cloud">EC2</span>
@@ -86,8 +89,7 @@
 , API Gateway
 , <span title="Elastic Block Store">EBS</span>
 , Dynamo DB
-  - I'm planning to get <a title="AWS Certified Solutions Architect – Associate" href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Certified SAA</a>
-  - Qualified [SAA](https://www.credly.com/badges/33929ed3-124e-462d-b620-b78047e0c791/public_url) on 3 July 2021.
+  - Qualified <a title="AWS Certified Solutions Architect – Associate" href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Certified SAA</a> ([public URL](https://www.credly.com/badges/33929ed3-124e-462d-b620-b78047e0c791/public_url)) on 3 July 2021.
 - Experienced Docker, Docker Swarm, ECS, Docker Compose in production
 - Learning Kubernetes
   - Experienecd creating controllers with Operator Pattern powered by [operator-sdk](https://github.com/operator-framework/operator-sdk)
@@ -95,19 +97,25 @@
 - Experienced [serverless](https://www.serverless.com/) in production
   - Combined with AWS
 - Experienced GraphQL with [`nexus`](https://github.com/graphql-nexus/nexus) and apollo stack.
-- Learning GCP and GKE
-  - Used GCP a little in production
+- Continue learning GCP and GKE
+  - Used GCP in production
 - Experienced [unified](https://unifiedjs.com/)
-  - Made some plugins for my [math.luma.dev](https://math.luma.dev)
-- Learning [OpenCV](https://opencv.org/)
-  - for Image Processing and learning related algorithms.
+  - Built many plugins for my [math.luma.dev](https://math.luma.dev)
+- Created many tools for team
+  - Bots (Slack, Discord, GitHub App, ...)
+  - Investigation tools (mainly WebUI) for everyday workload
 
 ### Writings
 
-- https://www.infoq.com/articles/pathpida-dynamic-routing-nextjs-nuxtjs/
+- [Zenn (Japanese)](https://zenn.dev/luma)
+- [Codeforces blog (English)](https://codeforces.com/blog/Luma)
+- [tech.luma.dev (Japanese)](https://tech.luma.dev/)
+- [sketch.luma.dev (Japanese)](https://sketch.luma.dev/)
 
 ### Natural languages
 
 - Japanese: Native ヾ(^▽^*)))
 - English: Intermediate ( currently learning in listening/speaking )
+  - Experienced discussions in-person with colleague in business.
+  - Experienced chat in business and dev community more than 5 years.
 - Chinese: Super beginner
