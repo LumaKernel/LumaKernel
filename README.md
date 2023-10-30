@@ -118,4 +118,3 @@
 - English: Intermediate ( currently learning in listening/speaking )
   - Experienced discussions in-person with colleague in business.
   - Experienced chat in business and dev community more than 5 years.
-- Chinese: Super beginner
